@@ -4,5 +4,6 @@ ipykernel
 pandas
 matplotlib
 numpy
+pyspark
 
 python-dotenv
